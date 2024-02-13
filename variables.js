@@ -1,14 +1,13 @@
-let age = 27
-let isDoorClosed = true;
-let fullName = 'John Doe';
+let name = 'Melos Gorani';
+let age = 26;
+let isStudent = true 
+let favoriteColors = ['Blue','Black','Red'];
 
 let person = {
-    firstName : 'John',
-    lastName : 'Doe',
-    age : 27
-}
+    firstName : 'Melos',
+    lastName : 'Gorani',
+    age : 26
+};
 
 
-
-
-console.log(typeof person);
+console.log (person);
